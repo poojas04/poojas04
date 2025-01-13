@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @poojas04
 - 👀 I’m interested in Passionate about everything technology, from software development to cybersecurity and beyond. 
-- 🌱 I’m currently learning Currently learning machine learning, neural networks, and their applications in cybersecurity, while sharpening skills in Python, Java, and cloud computing."
+- 🌱 I’m currently learning machine learning, neural networks, and their applications in cybersecurity, while sharpening skills in Python, Java, and cloud computing."
 - 💞️ I’m looking to collaborate on machine learning projects, cybersecurity solutions, and data-driven applications to create innovative, secure, and scalable systems
 - 📫 How to reach me (https://poojashahtech.pages.dev)
 - 😄 Pronouns: she/her
